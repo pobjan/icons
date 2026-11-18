@@ -1,0 +1,9 @@
+[
+    {
+        "label": "Phosphor",
+        "name": "phosphor",
+        "latest_version": "v2.0.8",
+        "latest_tree": "phosphor_v2.0.8",
+        "dir": "phosphor/"
+    }
+]
