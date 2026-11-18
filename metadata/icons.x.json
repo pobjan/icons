@@ -1,0 +1,3518 @@
+[
+	{
+		"name": "font-awesome",
+		"variants": [
+			"solid",
+			"regular",
+			"brands",
+			"whiteboard-semibold",
+			"vellum-solid",
+			"utility-fill-semibold",
+			"utility-duo-semibold",
+			"utility-semibold",
+			"thumbprint-light",
+			"slab-press-duo-regular",
+			"slab-press-regular",
+			"slab-duo-regular",
+			"slab-regular",
+			"sharp-duotone-thin",
+			"sharp-duotone-solid",
+			"sharp-duotone-regular",
+			"sharp-duotone-light",
+			"sharp-thin",
+			"sharp-solid",
+			"sharp-regular",
+			"sharp-light",
+			"pixel-regular",
+			"notdog-duo-solid",
+			"notdog-solid",
+			"mosaic-solid",
+			"jelly-fill-regular",
+			"jelly-duo-regular",
+			"jelly-regular",
+			"graphite-thin",
+			"etch-solid",
+			"duotone-thin",
+			"duotone",
+			"duotone-regular",
+			"duotone-light",
+			"thin",
+			"light",
+			"chisel-regular"
+		]
+	},
+	{
+		"name": "web-awesome",
+		"variants": [
+			"solid",
+			"brands",
+			"sharp-duotone-thin",
+			"sharp-duotone-solid",
+			"sharp-duotone-regular",
+			"sharp-duotone-light",
+			"sharp-thin",
+			"sharp-solid",
+			"sharp-regular",
+			"sharp-light",
+			"duotone-thin",
+			"duotone",
+			"duotone-regular",
+			"duotone-light",
+			"thin",
+			"regular",
+			"light"
+		]
+	},
+	{
+		"name": "github",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "facebook",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "linkedin",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "discord",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "slack",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "algolia",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "figma",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "youtube",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "reddit",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "apple",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "google",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "twitch",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "pied-piper-hat",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "kickstarter",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "docker",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "rebel",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "codepen",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "cloudflare",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "dropbox",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "airbnb",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "shopify",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "instagram",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "tiktok",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "wordpress",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "stripe",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "windows",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "paypal",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "stack-overflow",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "dribbble",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "squarespace",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "android",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "medium",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "vimeo",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "whatsapp",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "intercom",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "usps",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "wix",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "line",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "behance",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "openid",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "product-hunt",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "internet-explorer",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "pagelines",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "teamspeak",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "html5",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "telegram",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "pinterest",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "dashcube",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "ideal",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "salesforce",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "readme",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "free-code-camp",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "soundcloud",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-twitter",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "accessible-icon",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "cc-visa",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "goodreads-g",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "google-play",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "react",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "wikipedia-w",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-js",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "java",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-pinterest",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "python",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "skype",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "linux",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "node",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "etsy",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "discourse",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "amazon",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "glide-g",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "gitlab",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "spotify",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "think-peaks",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "microsoft",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "elementor",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-youtube",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "cc-mastercard",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "facebook-messenger",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "atlassian",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "playstation",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "fly",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "meetup",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "waze",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "42-group",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "500px",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "a11y-project",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "accusoft",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "adn",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "adversal",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "affiliatetheme",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "alipay",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "amazon-pay",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "amilia",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "angellist",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "angrycreative",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "angular",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "apper",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "apple-pay",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "app-store",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "app-store-ios",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "arch-linux",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "artstation",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "asymmetrik",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "audible",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "autoprefixer",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "avianex",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "aviato",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "aws",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "bandcamp",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "battle-net",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "bilibili",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "bimobject",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "bitbucket",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "bitcoin",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "bity",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "blackberry",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "black-tie",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "blogger",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "blogger-b",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "bluesky",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "bluetooth",
+		"variants": [
+			"brands",
+			"sharp-duotone-thin",
+			"sharp-duotone-solid",
+			"sharp-duotone-regular",
+			"sharp-duotone-light",
+			"sharp-thin",
+			"sharp-solid",
+			"sharp-regular",
+			"sharp-light",
+			"duotone-thin",
+			"duotone",
+			"duotone-regular",
+			"duotone-light",
+			"thin",
+			"solid",
+			"regular",
+			"light"
+		]
+	},
+	{
+		"name": "bluetooth-b",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "board-game-geek",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "bootstrap",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "bots",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "brave",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "brave-reverse",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "btc",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "buffer",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "build-awesome",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "buromobelexperte",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "buy-n-large",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "buysellads",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "canadian-maple-leaf",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "cash-app",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "cc-amazon-pay",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "cc-amex",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "cc-apple-pay",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "cc-diners-club",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "cc-discover",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "cc-jcb",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "cc-paypal",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "cc-stripe",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "centercode",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "centos",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "chrome",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "chromecast",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "circle-zulip",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "claude",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "cloudscale",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "cloudsmith",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "cloudversify",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "cmplid",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "codeberg",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "codiepie",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "confluence",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "connectdevelop",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "contao",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "copilot",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "cotton-bureau",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "cpanel",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "creative-commons",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "creative-commons-by",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "creative-commons-nc",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "creative-commons-nc-eu",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "creative-commons-nc-jp",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "creative-commons-nd",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "creative-commons-pd",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "creative-commons-pd-alt",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "creative-commons-remix",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "creative-commons-sa",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "creative-commons-sampling",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "creative-commons-sampling-plus",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "creative-commons-share",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "creative-commons-zero",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "critical-role",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "css",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "css3",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "css3-alt",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "cuttlefish",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "dailymotion",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "d-and-d",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "d-and-d-beyond",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "dart-lang",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "debian",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "deezer",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "delicious",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "deploydog",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "deskpro",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "dev",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "deviantart",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "devpost",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "dhl",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "diaspora",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "digg",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "digital-ocean",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "disqus",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "dochub",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "dolibarr",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "draft2digital",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "drupal",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "duolingo",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "dyalog",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "earlybirds",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "ebay",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "edge",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "edge-legacy",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "eleventy",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "ello",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "ember",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "empire",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "envira",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "erlang",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "ethereum",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "evernote",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "expeditedssl",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "facebook-f",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "fantasy-flight-games",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "fedex",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "fediverse",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "fedora",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "files-pinwheel",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "firefox",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "firefox-browser",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "firstdraft",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "first-order",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "first-order-alt",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "flickr",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "flipboard",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "flutter",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "fonticons",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "fonticons-fi",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "forgejo",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "fort-awesome",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "fort-awesome-alt",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "forumbee",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "foursquare",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "freebsd",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "fulcrum",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "galactic-republic",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "galactic-senate",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "get-pocket",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "gg",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "gg-circle",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "git",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "git-alt",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "gitee",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "github-alt",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "gitkraken",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "gitter",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "glide",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "globaleaks",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "gofore",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "golang",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "goodreads",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "google-drive",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "google-pay",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "google-plus",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "google-plus-g",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "google-scholar",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "google-wallet",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "gratipay",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "grav",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "gripfire",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "grunt",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "guilded",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "gulp",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "hacker-news",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "hackerrank",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "hashnode",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "hips",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "hire-a-helper",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "hive",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "hooli",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "hornbill",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "hotjar",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "houzz",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "hubspot",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "hugging-face",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "imdb",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "instalod",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "internet-archive",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "invision",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "ioxhost",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "itch-io",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "itunes",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "itunes-note",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "jedi-order",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "jenkins",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "jira",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "joget",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "joomla",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "js",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "jsfiddle",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "julia",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "jxl",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "kaggle",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "kakao-talk",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "keybase",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "keycdn",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "kickstarter-k",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "ko-fi",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "korvue",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "kubernetes",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "laravel",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "lastfm",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "leanpub",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "leetcode",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "less",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "lets-encrypt",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "letterboxd",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "linkedin-in",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "linktree",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "linode",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "lumon",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "lumon-drop",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "lyft",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "magento",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "mailchimp",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "mandalorian",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "markdown",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "mastodon",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "matrix",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "mattermost",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "maxcdn",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "mdb",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "medapps",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "medrt",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "megaport",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "mendeley",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "meta",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "microblog",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "mintbit",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "mix",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "mixcloud",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "mixer",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "mizuni",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "modx",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "monero",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "napster",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "neos",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "nextcloud",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "nfc-directional",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "nfc-symbol",
+		"variants": [
+			"brands",
+			"sharp-duotone-thin",
+			"sharp-duotone-solid",
+			"sharp-duotone-regular",
+			"sharp-duotone-light",
+			"sharp-thin",
+			"sharp-solid",
+			"sharp-regular",
+			"sharp-light",
+			"duotone-thin",
+			"duotone",
+			"duotone-regular",
+			"duotone-light",
+			"thin",
+			"solid",
+			"regular",
+			"light"
+		]
+	},
+	{
+		"name": "nimblr",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "node-js",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "notion",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "npm",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "ns8",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "nutritionix",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "obsidian",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "obs-studio",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "octopus-deploy",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "odnoklassniki",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "odysee",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "old-republic",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "openai",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "opencart",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "openstreetmap",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "opensuse",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "opera",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "optin-monster",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "orcid",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "osi",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "padlet",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "page4",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "palfed",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "pandora",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "patreon",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "perbyte",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "periscope",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "phabricator",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "phoenix-framework",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "phoenix-squadron",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "php",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "pied-piper",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "pied-piper-alt",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "pied-piper-pp",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "pinterest-p",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "pix",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "pixelfed",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "pixiv",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "postgresql",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "pushed",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "qq",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "quinscape",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "quora",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "raspberry-pi",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "ravelry",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "reacteurope",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "reddit-alien",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "redhat",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "red-river",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "renren",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "replyd",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "researchgate",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "resolving",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "rev",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "roblox-creator-studio",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "rocketchat",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "rockrms",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "ror",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "r-project",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "rust",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "safari",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "sass",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "scaleway",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "schlix",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "screenpal",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "scribd",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "searchengin",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "sellcast",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "sellsy",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "servicestack",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "shirtsinbulk",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "shoelace",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "shopware",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "signal-messenger",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "simplybuilt",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "sistrix",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "sith",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "sitrox",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "sketch",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "skyatlas",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "slideshare",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "snapchat",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "solana",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "sourcetree",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "space-awesome",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "speakap",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "speaker-deck",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-behance",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-bluesky",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-build-awesome-stroke",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-deskpro",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-dribbble",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-facebook",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-figma",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-font-awesome",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-font-awesome-stroke",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-git",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-github",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-gitlab",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-google-plus",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-hacker-news",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-instagram",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-lastfm",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-letterboxd",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-linkedin",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-odnoklassniki",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-pied-piper",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-reddit",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-snapchat",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-steam",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-threads",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-tumblr",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-upwork",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-viadeo",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-vimeo",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-web-awesome",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-web-awesome-stroke",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-whatsapp",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-xing",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "square-x-twitter",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "stack-exchange",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "stackpath",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "staylinked",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "steam",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "steam-symbol",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "sticker-mule",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "storybook",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "strava",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "stripe-s",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "stubber",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "studiovinari",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "stumbleupon",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "stumbleupon-circle",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "substack",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "superpowers",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "supple",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "supportnow",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "suse",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "svelte",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "swift",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "symfony",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "symfonycasts",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "tailwind-css",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "tencent-weibo",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "tesla",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "tex",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "themeco",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "themeisle",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "the-red-yeti",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "threads",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "threema",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "tidal",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "tor-browser",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "trade-federation",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "trello",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "tumblr",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "twitter",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "typescript",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "typo3",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "uber",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "ubuntu",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "uikit",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "ultralytics",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "ultralytics-hub",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "ultralytics-yolo",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "umbraco",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "uncharted",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "uniregistry",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "unison",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "unity",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "unreal-engine",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "unsplash",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "untappd",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "ups",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "upwork",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "usb",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "ussunnah",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "vaadin",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "venmo",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "venmo-v",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "viacoin",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "viadeo",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "viber",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "vim",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "vimeo-v",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "vine",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "visual-studio",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "vk",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "vnv",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "vsco",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "vuejs",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "w3c",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "watchman-monitoring",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "webflow",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "weebly",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "weibo",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "weixin",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "whmcs",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "wirsindhandwerk",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "wizards-of-the-coast",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "wodu",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "wolf-pack-battalion",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "wordpress-simple",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "wpbeginner",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "wpexplorer",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "wpforms",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "wpressr",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "xbox",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "xing",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "xmpp",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "xrp",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "xrpl",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "x-twitter",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "yahoo",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "yammer",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "yandex",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "yandex-international",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "yarn",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "y-combinator",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "yelp",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "yoast",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "youtube-shorts",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "zhihu",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "zoom",
+		"variants": [
+			"brands"
+		]
+	},
+	{
+		"name": "zulip",
+		"variants": [
+			"brands"
+		]
+	}
+]
