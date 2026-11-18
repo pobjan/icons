@@ -12,5 +12,12 @@
         "latest_version": "v1.4.0",
         "latest_tree": "hugeicons_v1.4.0",
         "dir": "hugeicons/"
+    },
+    {
+        "label": "Fontawesome",
+        "name": "fontawesome",
+        "latest_version": "v7.3.1",
+        "latest_tree": "fontawesome_v7.3.1",
+        "dir": "fontawesome/"
     }
 ]
