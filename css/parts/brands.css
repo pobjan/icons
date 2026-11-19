@@ -9,7 +9,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url("../../fonts/fa-brands-400-3.woff2");
+  src: url('../../fonts/brands/3.woff2') format("woff2");
 }
 
 @font-face {
@@ -17,7 +17,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url("../../fonts/fa-brands-400-2.woff2");
+  src: url('../../fonts/brands/2.woff2') format("woff2");
   unicode-range: U+F166-F6CA;
 }
 
@@ -26,7 +26,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url("../../fonts/fa-brands-400-1.woff2");
+  src: url('../../fonts/brands/1.woff2') format("woff2");
   unicode-range: U+E85E-F15A, U+F168-F36C, U+F3EF, U+F425, U+F4E6;
 }
 
@@ -35,7 +35,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url("../../fonts/fa-brands-400-0.woff2");
+  src: url('../../fonts/brands/0.woff2') format("woff2");
   unicode-range: U+E007-E85D, U+F08C, U+F099-F0D2, U+F13B, U+F167, U+F16A-F16D, U+F179-F17C, U+F17E, U+F18C, U+F19A-F19B, U+F1A0, U+F1B4, U+F1BC, U+F1BE, U+F1E8, U+F1ED, U+F1F0-F1F1, U+F20E-F210, U+F213-F214, U+F230, U+F232, U+F23A, U+F26B, U+F270, U+F288, U+F299-F29B, U+F2A6, U+F2B0, U+F2C5-F2C6, U+F2E0, U+F368, U+F379, U+F392-F393, U+F39F, U+F3A9, U+F3AB-F3AC, U+F3C0, U+F3C7, U+F3CA, U+F3E2, U+F3EB-F3EC, U+F3F8, U+F3FE, U+F419, U+F41B, U+F4D5-F4E4, U+F4F8-F4F9, U+F514, U+F5B5, U+F6C9, U+F731, U+F77B, U+F7AF, U+F7E1, U+F83B;
 }
 
