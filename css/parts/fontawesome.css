@@ -4,78 +4,14 @@
  * Copyright 2026 Fonticons, Inc.
  */
 
-.fa-solid,
-.fa-regular,
-.fa-brands,
-.fa-classic,
-.fas,
-.far,
-.fab,
-.fal,
-.fat,
-.fad,
-.fadr,
-.fadl,
-.fadt,
-.fass,
-.fasr,
-.fasl,
-.fast,
-.fasds,
-.fasdr,
-.fasdl,
-.fasdt,
-.faslr,
-.faslpr,
-.fasldr,
-.faslpdr,
-.fapr,
-.fams,
-.favs,
-.fawsb,
-.fatl,
-.fans,
-.fands,
-.faes,
-.fagt,
-.fajr,
-.fajfr,
-.fajdr,
-.facr,
-.fausb,
-.faudsb,
-.faufsb,
-.fa-solid,
-.fa-semibold,
-.fa-regular,
-.fa-light,
-.fa-thin,
-.fa-brands,
-.fa-classic,
-.fa-duotone,
-.fa-sharp,
-.fa-sharp-duotone,
-.fa-chisel,
-.fa-etch,
-.fa-graphite,
-.fa-jelly,
-.fa-jelly-duo,
-.fa-jelly-fill,
-.fa-mosaic,
-.fa-notdog,
-.fa-notdog-duo,
-.fa-pixel,
-.fa-slab,
-.fa-slab-duo,
-.fa-slab-press,
-.fa-slab-press-duo,
-.fa-thumbprint,
-.fa-utility,
-.fa-utility-duo,
-.fa-utility-fill,
-.fa-vellum,
-.fa-whiteboard,
-.fa {
+.fa-solid, .fa-regular, .fa-brands, .fa-classic, .fas, .far, .fab, .fal, .fat, .fad, .fadr, .fadl,
+.fadt, .fass, .fasr, .fasl, .fast, .fasds, .fasdr, .fasdl, .fasdt, .faslr, .faslpr, .fasldr,
+.faslpdr, .fapr, .fams, .favs, .fawsb, .fatl, .fans, .fands, .faes, .fagt, .fajr, .fajfr, .fajdr,
+.facr, .fausb, .faudsb, .faufsb, .fa-solid, .fa-semibold, .fa-regular, .fa-light, .fa-thin,
+.fa-brands, .fa-classic, .fa-duotone, .fa-sharp, .fa-sharp-duotone, .fa-chisel, .fa-etch,
+.fa-graphite, .fa-jelly, .fa-jelly-duo, .fa-jelly-fill, .fa-mosaic, .fa-notdog, .fa-notdog-duo,
+.fa-pixel, .fa-slab, .fa-slab-duo, .fa-slab-press, .fa-slab-press-duo, .fa-thumbprint, .fa-utility,
+.fa-utility-duo, .fa-utility-fill, .fa-vellum, .fa-whiteboard, .fa {
   --_fa-family: var(--fa-family, var(--fa-style-family, 'Font Awesome 7 Pro'));
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -92,203 +28,41 @@
   width: var(--fa-width, 1.25em);
 }
 
-:is(.fas,
-.fass,
-.far,
-.fasr,
-.fal,
-.fasl,
-.fat,
-.fast,
-.fad,
-.fadr,
-.fadl,
-.fadt,
-.fasds,
-.fasdr,
-.fasdl,
-.fasdt,
-.fab,
-.faslr,
-.faslpr,
-.fasldr,
-.faslpdr,
-.fapr,
-.fams,
-.favs,
-.fawsb,
-.fatl,
-.fans,
-.fands,
-.faes,
-.fagt,
-.fajr,
-.fajfr,
-.fajdr,
-.facr,
-.fausb,
-.faudsb,
-.faufsb,
-.fa-solid,
-.fa-semibold,
-.fa-regular,
-.fa-light,
-.fa-thin,
-.fa-brands,
-.fa-classic,
-.fa-duotone,
-.fa-sharp,
-.fa-sharp-duotone,
-.fa-chisel,
-.fa-etch,
-.fa-graphite,
-.fa-jelly,
-.fa-jelly-duo,
-.fa-jelly-fill,
-.fa-mosaic,
-.fa-notdog,
-.fa-notdog-duo,
-.fa-pixel,
-.fa-slab,
-.fa-slab-duo,
-.fa-slab-press,
-.fa-slab-press-duo,
-.fa-thumbprint,
-.fa-utility,
-.fa-utility-duo,
-.fa-utility-fill,
-.fa-vellum,
-.fa-whiteboard,
-.fa)::before {
+:is(.fas, .fass, .far, .fasr, .fal, .fasl, .fat, .fast, .fad, .fadr, .fadl, .fadt, .fasds, .fasdr,
+  .fasdl, .fasdt, .fab, .faslr, .faslpr, .fasldr, .faslpdr, .fapr, .fams, .favs, .fawsb, .fatl,
+  .fans, .fands, .faes, .fagt, .fajr, .fajfr, .fajdr, .facr, .fausb, .faudsb, .faufsb, .fa-solid,
+  .fa-semibold, .fa-regular, .fa-light, .fa-thin, .fa-brands, .fa-classic, .fa-duotone, .fa-sharp,
+  .fa-sharp-duotone, .fa-chisel, .fa-etch, .fa-graphite, .fa-jelly, .fa-jelly-duo, .fa-jelly-fill,
+  .fa-mosaic, .fa-notdog, .fa-notdog-duo, .fa-pixel, .fa-slab, .fa-slab-duo, .fa-slab-press,
+  .fa-slab-press-duo, .fa-thumbprint, .fa-utility, .fa-utility-duo, .fa-utility-fill, .fa-vellum,
+  .fa-whiteboard, .fa)::before {
   content: var(--fa)/"";
 }
 
 @supports not (content: ""/"") {
-  :is(.fas,
-  .fass,
-  .far,
-  .fasr,
-  .fal,
-  .fasl,
-  .fat,
-  .fast,
-  .fad,
-  .fadr,
-  .fadl,
-  .fadt,
-  .fasds,
-  .fasdr,
-  .fasdl,
-  .fasdt,
-  .fab,
-  .faslr,
-  .faslpr,
-  .fasldr,
-  .faslpdr,
-  .fapr,
-  .fams,
-  .favs,
-  .fawsb,
-  .fatl,
-  .fans,
-  .fands,
-  .faes,
-  .fagt,
-  .fajr,
-  .fajfr,
-  .fajdr,
-  .facr,
-  .fausb,
-  .faudsb,
-  .faufsb,
-  .fa-solid,
-  .fa-semibold,
-  .fa-regular,
-  .fa-light,
-  .fa-thin,
-  .fa-brands,
-  .fa-classic,
-  .fa-duotone,
-  .fa-sharp,
-  .fa-sharp-duotone,
-  .fa-chisel,
-  .fa-etch,
-  .fa-graphite,
-  .fa-jelly,
-  .fa-jelly-duo,
-  .fa-jelly-fill,
-  .fa-mosaic,
-  .fa-notdog,
-  .fa-notdog-duo,
-  .fa-pixel,
-  .fa-slab,
-  .fa-slab-duo,
-  .fa-slab-press,
-  .fa-slab-press-duo,
-  .fa-thumbprint,
-  .fa-utility,
-  .fa-utility-duo,
-  .fa-utility-fill,
-  .fa-vellum,
-  .fa-whiteboard,
-  .fa)::before {
+  :is(.fas, .fass, .far, .fasr, .fal, .fasl, .fat, .fast, .fad, .fadr, .fadl, .fadt, .fasds,
+    .fasdr, .fasdl, .fasdt, .fab, .faslr, .faslpr, .fasldr, .faslpdr, .fapr, .fams, .favs, .fawsb,
+    .fatl, .fans, .fands, .faes, .fagt, .fajr, .fajfr, .fajdr, .facr, .fausb, .faudsb, .faufsb,
+    .fa-solid, .fa-semibold, .fa-regular, .fa-light, .fa-thin, .fa-brands, .fa-classic,
+    .fa-duotone, .fa-sharp, .fa-sharp-duotone, .fa-chisel, .fa-etch, .fa-graphite, .fa-jelly,
+    .fa-jelly-duo, .fa-jelly-fill, .fa-mosaic, .fa-notdog, .fa-notdog-duo, .fa-pixel, .fa-slab,
+    .fa-slab-duo, .fa-slab-press, .fa-slab-press-duo, .fa-thumbprint, .fa-utility, .fa-utility-duo,
+    .fa-utility-fill, .fa-vellum, .fa-whiteboard, .fa)::before {
     content: var(--fa);
   }
 }
 
-:is(.fad,
-.fa-duotone,
-.fadr,
-.fadl,
-.fadt,
-.fasds,
-.fa-sharp-duotone,
-.fasdr,
-.fasdl,
-.fasdt,
-.fatl,
-.fa-thumbprint,
-.fands,
-.fa-notdog-duo,
-.fajdr,
-.fa-jelly-duo,
-.faudsb,
-.fa-utility-duo,
-.fasldr,
-.fa-slab-duo,
-.faslpdr,
-.fa-slab-press-duo,
-.favs,
-.fa-vellum)::after {
+:is(.fad, .fa-duotone, .fadr, .fadl, .fadt, .fasds, .fa-sharp-duotone, .fasdr, .fasdl, .fasdt,
+  .fatl, .fa-thumbprint, .fands, .fa-notdog-duo, .fajdr, .fa-jelly-duo, .faudsb, .fa-utility-duo, 
+  .fasldr, .fa-slab-duo, .faslpdr, .fa-slab-press-duo, .favs, .fa-vellum)::after {
   content: var(--fa)/"";
   font-feature-settings: "ss01";
 }
 
 @supports not (content: ""/"") {
-  :is(.fad,
-  .fa-duotone,
-  .fadr,
-  .fadl,
-  .fadt,
-  .fasds,
-  .fa-sharp-duotone,
-  .fasdr,
-  .fasdl,
-  .fasdt,
-  .fatl,
-  .fa-thumbprint,
-  .fands,
-  .fa-notdog-duo,
-  .fajdr,
-  .fa-jelly-duo,
-  .faudsb,
-  .fa-utility-duo,
-  .fasldr,
-  .fa-slab-duo,
-  .faslpdr,
-  .fa-slab-press-duo,
-  .favs,
-  .fa-vellum)::after {
+  :is(.fad, .fa-duotone, .fadr, .fadl, .fadt, .fasds, .fa-sharp-duotone, .fasdr, .fasdl, .fasdt,
+    .fatl, .fa-thumbprint, .fands, .fa-notdog-duo, .fajdr, .fa-jelly-duo, .faudsb, .fa-utility-duo,
+    .fasldr, .fa-slab-duo, .faslpdr, .fa-slab-press-duo, .favs, .fa-vellum)::after {
     content: var(--fa);
   }
 }
@@ -447,14 +221,12 @@
   padding: var(--fa-border-padding, 0.1875em 0.25em);
 }
 
-.fa-pull-left,
-.fa-pull-start {
+.fa-pull-left, .fa-pull-start {
   float: inline-start;
   margin-inline-end: var(--fa-pull-margin, 0.3em);
 }
 
-.fa-pull-right,
-.fa-pull-end {
+.fa-pull-right, .fa-pull-end {
   float: inline-end;
   margin-inline-start: var(--fa-pull-margin, 0.3em);
 }
@@ -620,24 +392,9 @@
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .fa-beat,
-  .fa-bounce,
-  .fa-fade,
-  .fa-beat-fade,
-  .fa-flip,
-  .fa-flip-360,
-  .fa-pulse,
-  .fa-shake,
-  .fa-spin,
-  .fa-spin-pulse,
-  .fa-buzz,
-  .fa-float,
-  .fa-jello,
-  .fa-spin-snap,
-  .fa-spin-snap-4,
-  .fa-spin-snap-8,
-  .fa-swing,
-  .fa-wag {
+  .fa-beat, .fa-bounce, .fa-fade, .fa-beat-fade, .fa-flip, .fa-flip-360, .fa-pulse, .fa-shake,
+  .fa-spin, .fa-spin-pulse, .fa-buzz, .fa-float, .fa-jello, .fa-spin-snap, .fa-spin-snap-4,
+  .fa-spin-snap-8, .fa-swing, .fa-wag {
     animation: none !important;
     transition: none !important;
   }
@@ -672,12 +429,14 @@
   }
 
   14% {
-    transform: scale(var(--fa-bounce-start-scale-x, 1.06), var(--fa-bounce-start-scale-y, 0.94)) translateY(var(--fa-bounce-anticipation, 3px));
+    transform: scale(var(--fa-bounce-start-scale-x, 1.06), var(--fa-bounce-start-scale-y, 0.94))
+      translateY(var(--fa-bounce-anticipation, 3px));
     animation-timing-function: cubic-bezier(0.33, 0, 0.66, 0.33);
   }
 
   32% {
-    transform: scale(var(--fa-bounce-jump-scale-x, 0.94), var(--fa-bounce-jump-scale-y, 1.12)) translateY(calc(-1 * var(--fa-bounce-height, 0.5em)));
+    transform: scale(var(--fa-bounce-jump-scale-x, 0.94), var(--fa-bounce-jump-scale-y, 1.12))
+      translateY(calc(-1 * var(--fa-bounce-height, 0.5em)));
     animation-timing-function: cubic-bezier(0.33, 0.66, 0.66, 1);
   }
 
@@ -687,17 +446,20 @@
   }
 
   70% {
-    transform: scale(var(--fa-bounce-land-scale-x, 1.06), var(--fa-bounce-land-scale-y, 0.92)) translateY(0);
+    transform: scale(var(--fa-bounce-land-scale-x, 1.06), var(--fa-bounce-land-scale-y, 0.92))
+      translateY(0);
     animation-timing-function: cubic-bezier(0.33, 0.33, 0.66, 1);
   }
 
   85% {
-    transform: scale(0.98, 1.04) translateY(calc(-2px * var(--fa-bounce-rebound, 1)));
+    transform: scale(0.98, 1.04)
+      translateY(calc(-2px * var(--fa-bounce-rebound, 1)));
     animation-timing-function: cubic-bezier(0.33, 0, 0.66, 1);
   }
 
   100% {
-    transform: scale(1, 1) translateY(0);
+    transform: scale(1, 1)
+      translateY(0);
   }
 }
 
@@ -753,58 +515,87 @@
 
 @keyframes fa-flip {
   0% {
-    transform: perspective(2em) scale(1) rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), 0deg);
+    transform: perspective(2em)
+      scale(1)
+      rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), 0deg);
     animation-timing-function: cubic-bezier(0.2, 0, 0.4, 1);
   }
 
   8% {
-    transform: perspective(2em) scale(var(--fa-flip-anticipation-scale, 0.95)) rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), 0deg);
+    transform: perspective(2em)
+      scale(var(--fa-flip-anticipation-scale, 0.95))
+      rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), 0deg);
     animation-timing-function: cubic-bezier(0.33, 0, 0.66, 0.33);
   }
 
   35% {
-    transform: perspective(2em) scale(1) rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), calc(var(--fa-flip-angle, -360deg) * 0.6));
+    transform: perspective(2em)
+      scale(1)
+      rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0),
+        calc(var(--fa-flip-angle, -360deg) * 0.6));
     animation-timing-function: linear;
   }
 
   65% {
-    transform: perspective(2em) scale(1) rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), calc(var(--fa-flip-angle, -360deg) * 0.5));
+    transform: perspective(2em)
+      scale(1)
+      rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0),
+        calc(var(--fa-flip-angle, -360deg) * 0.5));
     animation-timing-function: cubic-bezier(0.33, 0.66, 0.66, 1);
   }
 
   92% {
-    transform: perspective(2em) scale(1) rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), calc(var(--fa-flip-angle, -360deg) * var(--fa-flip-overshoot, 1.04)));
+    transform: perspective(2em)
+      scale(1)
+      rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), 
+        calc(var(--fa-flip-angle, -360deg) * var(--fa-flip-overshoot, 1.04)));
     animation-timing-function: cubic-bezier(0.33, 0, 0.66, 1);
   }
 
   100% {
-    transform: perspective(2em) scale(1) rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -360deg));
+    transform: perspective(2em)
+      scale(1)
+      rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0),
+        var(--fa-flip-angle, -360deg));
   }
 }
 
 @keyframes fa-flip-360 {
   0% {
-    transform: perspective(2em) scale(1) rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), 0deg);
+    transform: perspective(2em)
+      scale(1)
+      rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), 0deg);
     animation-timing-function: cubic-bezier(0.2, 0, 0.4, 1);
   }
 
   8% {
-    transform: perspective(2em) scale(var(--fa-flip-anticipation-scale, 0.95)) rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), 0deg);
+    transform: perspective(2em)
+      scale(var(--fa-flip-anticipation-scale, 0.95))
+      rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), 0deg);
     animation-timing-function: cubic-bezier(0.33, 0, 0.66, 0.33);
   }
 
   50% {
-    transform: perspective(2em) scale(1) rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), calc(var(--fa-flip-angle, -360deg) * 0.6));
+    transform: perspective(2em)
+      scale(1)
+      rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0),
+        calc(var(--fa-flip-angle, -360deg) * 0.6));
     animation-timing-function: cubic-bezier(0.33, 0.66, 0.66, 1);
   }
 
   80% {
-    transform: perspective(2em) scale(1) rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), calc(var(--fa-flip-angle, -360deg) * var(--fa-flip-overshoot, 1.04)));
+    transform: perspective(2em)
+      scale(1)
+      rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0),
+        calc(var(--fa-flip-angle, -360deg) * var(--fa-flip-overshoot, 1.04)));
     animation-timing-function: cubic-bezier(0.33, 0, 0.66, 1);
   }
 
   100% {
-    transform: perspective(2em) scale(1) rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -360deg));
+    transform: perspective(2em)
+      scale(1)
+      rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0),
+        var(--fa-flip-angle, -360deg));
   }
 }
 
@@ -1064,44 +855,54 @@
 
 @keyframes fa-buzz {
   0% {
-    transform: translateX(0) rotate(0deg);
+    transform: translateX(0)
+      rotate(0deg);
     animation-timing-function: cubic-bezier(0.1, 0, 0.9, 1);
   }
 
   5% {
-    transform: translateX(var(--fa-buzz-distance, 4px)) rotate(0.5deg);
+    transform: translateX(var(--fa-buzz-distance, 4px))
+      rotate(0.5deg);
   }
 
   10% {
-    transform: translateX(calc(-1 * var(--fa-buzz-distance, 4px))) rotate(-0.5deg);
+    transform: translateX(calc(-1 * var(--fa-buzz-distance, 4px)))
+      rotate(-0.5deg);
   }
 
   15% {
-    transform: translateX(var(--fa-buzz-distance, 4px)) rotate(0.3deg);
+    transform: translateX(var(--fa-buzz-distance, 4px))
+      rotate(0.3deg);
   }
 
   20% {
-    transform: translateX(calc(-1 * var(--fa-buzz-distance, 4px))) rotate(-0.3deg);
+    transform: translateX(calc(-1 * var(--fa-buzz-distance, 4px)))
+      rotate(-0.3deg);
   }
 
   25% {
-    transform: translateX(calc(var(--fa-buzz-distance, 4px) * 0.7)) rotate(0.2deg);
+    transform: translateX(calc(var(--fa-buzz-distance, 4px) * 0.7))
+      rotate(0.2deg);
   }
 
   30% {
-    transform: translateX(calc(-1 * var(--fa-buzz-distance, 4px) * 0.7)) rotate(-0.2deg);
+    transform: translateX(calc(-1 * var(--fa-buzz-distance, 4px) * 0.7))
+      rotate(-0.2deg);
   }
 
   35% {
-    transform: translateX(calc(var(--fa-buzz-distance, 4px) * 0.4)) rotate(0.1deg);
+    transform: translateX(calc(var(--fa-buzz-distance, 4px) * 0.4))
+      rotate(0.1deg);
   }
 
   40% {
-    transform: translateX(0) rotate(0deg);
+    transform: translateX(0)
+      rotate(0deg);
   }
 
   100% {
-    transform: translateX(0) rotate(0deg);
+    transform: translateX(0)
+      rotate(0deg);
   }
 }
 
@@ -1147,37 +948,58 @@
 
 @keyframes fa-float {
   0% {
-    transform: translateY(0) translateX(0) rotate(0deg) scale(var(--fa-float-squash-x, 1.02), var(--fa-float-squash-y, 0.98));
+    transform: translateY(0)
+      translateX(0)
+      rotate(0deg)
+      scale(var(--fa-float-squash-x, 1.02), var(--fa-float-squash-y, 0.98));
     animation-timing-function: cubic-bezier(0.33, 0, 0.66, 0.33);
   }
 
   15% {
-    transform: translateY(calc(-0.4 * var(--fa-float-height, 6px))) translateX(var(--fa-float-drift, 1px)) rotate(var(--fa-float-tilt, 1deg)) scale(1, 1);
+    transform: translateY(calc(-0.4 * var(--fa-float-height, 6px)))
+      translateX(var(--fa-float-drift, 1px))
+      rotate(var(--fa-float-tilt, 1deg))
+      scale(1, 1);
     animation-timing-function: cubic-bezier(0.33, 0.66, 0.66, 1);
   }
 
   35% {
-    transform: translateY(calc(-1 * var(--fa-float-height, 6px))) translateX(0) rotate(0deg) scale(var(--fa-float-stretch-x, 0.98), var(--fa-float-stretch-y, 1.03));
+    transform: translateY(calc(-1 * var(--fa-float-height, 6px)))
+      translateX(0)
+      rotate(0deg)
+      scale(var(--fa-float-stretch-x, 0.98), var(--fa-float-stretch-y, 1.03));
     animation-timing-function: cubic-bezier(0.5, 0, 0.5, 0);
   }
 
   50% {
-    transform: translateY(calc(-0.92 * var(--fa-float-height, 6px))) translateX(calc(-0.5 * var(--fa-float-drift, 1px))) rotate(calc(-0.5 * var(--fa-float-tilt, 1deg))) scale(0.995, 1.01);
+    transform: translateY(calc(-0.92 * var(--fa-float-height, 6px)))
+      translateX(calc(-0.5 * var(--fa-float-drift, 1px)))
+      rotate(calc(-0.5 * var(--fa-float-tilt, 1deg)))
+      scale(0.995, 1.01);
     animation-timing-function: cubic-bezier(0.33, 0, 0.66, 0.33);
   }
 
   70% {
-    transform: translateY(calc(-0.3 * var(--fa-float-height, 6px))) translateX(calc(-1 * var(--fa-float-drift, 1px))) rotate(calc(-1 * var(--fa-float-tilt, 1deg))) scale(1, 1);
+    transform: translateY(calc(-0.3 * var(--fa-float-height, 6px)))
+      translateX(calc(-1 * var(--fa-float-drift, 1px)))
+      rotate(calc(-1 * var(--fa-float-tilt, 1deg)))
+      scale(1, 1);
     animation-timing-function: cubic-bezier(0.33, 0.66, 0.66, 1);
   }
 
   90% {
-    transform: translateY(calc(0.05 * var(--fa-float-height, 6px))) translateX(0) rotate(0deg) scale(var(--fa-float-squash-x, 1.02), var(--fa-float-squash-y, 0.98));
+    transform: translateY(calc(0.05 * var(--fa-float-height, 6px)))
+      translateX(0)
+      rotate(0deg)
+      scale(var(--fa-float-squash-x, 1.02), var(--fa-float-squash-y, 0.98));
     animation-timing-function: cubic-bezier(0.33, 0, 0.66, 1);
   }
 
   100% {
-    transform: translateY(0) translateX(0) rotate(0deg) scale(var(--fa-float-squash-x, 1.02), var(--fa-float-squash-y, 0.98));
+    transform: translateY(0)
+      translateX(0)
+      rotate(0deg)
+      scale(var(--fa-float-squash-x, 1.02), var(--fa-float-squash-y, 0.98));
   }
 }
 
@@ -1243,12 +1065,14 @@
   }
 
   36% {
-    transform: scale(calc(1 + (var(--fa-jello-scale-x, 1.15) - 1) * 0.5), calc(2 - (1 + (var(--fa-jello-scale-x, 1.15) - 1) * 0.5)));
+    transform: scale(calc(1 + (var(--fa-jello-scale-x, 1.15) - 1) * 0.5),
+      calc(2 - (1 + (var(--fa-jello-scale-x, 1.15) - 1) * 0.5)));
     animation-timing-function: cubic-bezier(0.4, 0, 0.6, 1);
   }
 
   48% {
-    transform: scale(calc(2 - (1 + (var(--fa-jello-scale-y, 1.12) - 1) * 0.3)), calc(1 + (var(--fa-jello-scale-y, 1.12) - 1) * 0.3));
+    transform: scale(calc(2 - (1 + (var(--fa-jello-scale-y, 1.12) - 1) * 0.3)),
+      calc(1 + (var(--fa-jello-scale-y, 1.12) - 1) * 0.3));
     animation-timing-function: cubic-bezier(0.4, 0, 0.6, 1);
   }
 
@@ -1286,8 +1110,7 @@
   transform: scale(1, -1);
 }
 
-.fa-flip-both,
-.fa-flip-horizontal.fa-flip-vertical {
+.fa-flip-both, .fa-flip-horizontal.fa-flip-vertical {
   transform: scale(-1, -1);
 }
 
@@ -1304,8 +1127,7 @@
   width: 2.5em;
 }
 
-.fa-stack-1x,
-.fa-stack-2x {
+.fa-stack-1x, .fa-stack-2x {
   --fa-width: 100%;
   inset: 0;
   position: absolute;
